@@ -57,8 +57,8 @@
       "FrScTe2": 1,
       "FrScTe3": 1,
       "FrScTe4": 1,
-      "FrScTe5": 0,
-      "FrScTe6": 0,
+      "FrScTe5": 1,
+      "FrScTe6": 1,
       "FrScTe7": 0,
       "FrScTe8": 0,
       "FrScTe9": 0,
@@ -82,8 +82,8 @@
     }
   },
   "humanReadable": {
-    "From Scratch Tests": "4/18",
-    "finalTestScore": "FINAL SCORE: 4/24",
+    "From Scratch Tests": "6/18",
+    "finalTestScore": "FINAL SCORE: 6/24",
     "Modify Tests": "0/6"
   }
 }
