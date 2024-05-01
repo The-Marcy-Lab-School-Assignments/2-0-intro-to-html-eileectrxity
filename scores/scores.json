@@ -53,7 +53,7 @@
   },
   "testScores": {
     "From Scratch Tests": {
-      "FrScTe1": 0,
+      "FrScTe1": 1,
       "FrScTe2": 0,
       "FrScTe3": 0,
       "FrScTe4": 0,
@@ -82,8 +82,8 @@
     }
   },
   "humanReadable": {
-    "From Scratch Tests": "0/18",
-    "finalTestScore": "FINAL SCORE: 0/24",
+    "From Scratch Tests": "1/18",
+    "finalTestScore": "FINAL SCORE: 1/24",
     "Modify Tests": "0/6"
   }
 }
