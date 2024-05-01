@@ -74,7 +74,7 @@
     },
     "Modify Tests": {
       "MoTe1": 1,
-      "MoTe2": 0,
+      "MoTe2": 1,
       "MoTe3": 0,
       "MoTe4": 0,
       "MoTe5": 0,
@@ -83,7 +83,7 @@
   },
   "humanReadable": {
     "From Scratch Tests": "18/18",
-    "finalTestScore": "FINAL SCORE: 19/24",
-    "Modify Tests": "1/6"
+    "finalTestScore": "FINAL SCORE: 20/24",
+    "Modify Tests": "2/6"
   }
 }
